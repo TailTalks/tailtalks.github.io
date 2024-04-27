@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87e23060.css",
+    "main.js": "/static/js/main.80dc42c4.js",
+    "static/media/MissionCat.jpg": "/static/media/MissionCat.3274e4f4c80955456de9.jpg",
+    "static/media/rubik-latin-wght-normal.woff2": "/static/media/rubik-latin-wght-normal.d99519627863392d2f0c.woff2",
+    "static/media/rubik-arabic-wght-normal.woff2": "/static/media/rubik-arabic-wght-normal.618841475d7a2dac093d.woff2",
+    "static/media/rubik-latin-ext-wght-normal.woff2": "/static/media/rubik-latin-ext-wght-normal.a6a758a2eadfbdf2a14d.woff2",
+    "static/media/IllustrationDark.svg": "/static/media/IllustrationDark.1ad2fba8df6a420e96e0d461524c0079.svg",
+    "static/media/rubik-cyrillic-wght-normal.woff2": "/static/media/rubik-cyrillic-wght-normal.8191f794fa7b5bfdad5d.woff2",
+    "static/media/IllustrationLight.svg": "/static/media/IllustrationLight.7aa799969ed100fed94430407d3b6043.svg",
+    "static/media/rubik-cyrillic-ext-wght-normal.woff2": "/static/media/rubik-cyrillic-ext-wght-normal.423a58d2de895ee48aeb.woff2",
+    "static/media/rubik-hebrew-wght-normal.woff2": "/static/media/rubik-hebrew-wght-normal.7363e8f72b579afbdf4e.woff2",
+    "static/media/ThemeSwitchLight.svg": "/static/media/ThemeSwitchLight.383ea13c3703ed2cd01184d95d5569eb.svg",
+    "static/media/ThemeSwitchDark.svg": "/static/media/ThemeSwitchDark.c984ef892408c2aaa096ba50c82a7575.svg",
+    "index.html": "/index.html",
+    "main.87e23060.css.map": "/static/css/main.87e23060.css.map",
+    "main.80dc42c4.js.map": "/static/js/main.80dc42c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87e23060.css",
+    "static/js/main.80dc42c4.js"
+  ]
+}
